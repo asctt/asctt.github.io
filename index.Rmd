@@ -1,0 +1,7 @@
+---
+title: "What this site is about"
+---
+
+This is an assessment piece for an imaginary school - Acacia State College. This entire task is an assessment piece for an Initial Teacher Education university course. Anthing within is derived from the Australian Curriculum version 8.3.
+
+![](School-crest.png)

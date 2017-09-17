@@ -1,0 +1,8 @@
+name: "Acacia State College Teacher Training"
+output_dir: "."
+navbar:
+  title: ""
+  left:
+    - text: "Why"
+      href: index.html
+   
