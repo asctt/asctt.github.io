@@ -2,6 +2,16 @@
 title: "What this site is about"
 ---
 
-This is an assessment piece for an imaginary school - Acacia State College. This entire task is an assessment piece for an Initial Teacher Education university course. Anthing within is derived from the Australian Curriculum version 8.3.
+This is an assessment piece for an imaginary school - Acacia State College. This entire task is an assessment piece for an Initial Teacher Education university course. Anthing within is derived from the Australian Curriculum version 8.3.  
 
-![](School-crest.png)
+This is not the intended start page. Follow the link below to reach the site.
+
+### Year 9 Economics and Business
+
+---
+
+[Click here to go in](https://asctt.github.io/economics-business/index.html)
+
+---
+
+![https://asctt.github.io/economics-business/index.html](School-crest.png)
